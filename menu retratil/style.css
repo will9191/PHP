@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+  }
+  
+  .faq {
+    margin-bottom: 10px;
+  }
+  
+  .question {
+    cursor: pointer;
+  }
+  
+  .answer {
+    display: none;
+  }
+  
+  .answer.show {
+    display: block;
+  }
+  
